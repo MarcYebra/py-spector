@@ -30,14 +30,6 @@ These are exactly the kinds of skills top companies look for in software enginee
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/MarcYebra/py-spector.git
-cd py-spector
-
 <h3>Example</h3>
 <p>Given the following <code>sample.py</code> file:</p>
 
@@ -107,3 +99,4 @@ def complicated():
 <p>MIT License © Marc Yebra</p>
 
 <p>Created by Marc Yebra</p>
+
