@@ -6,10 +6,10 @@
 
 PySpector provides the following details for each function:
 
-- ✅ **Function name**
-- 🔢 **Starting line number**
-- 📏 **Function length** (in lines)
-- 📝 **Docstring presence** (whether a documentation string exists)
+- **Function name**
+- **Starting line number**
+- **Function length** (in lines)
+- **Docstring presence** (whether a documentation string exists)
 
 ## Purpose
 
